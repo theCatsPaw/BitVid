@@ -1,6 +1,7 @@
 BitVid
 ======
 
+[ ![Codeship Status for theCatsPaw/BitVid](https://codeship.com/projects/ba935860-5264-0132-5821-1e034fd16c6e/status)](https://codeship.com/projects/48624)
 
 Installation
 ============
